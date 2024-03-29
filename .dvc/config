@@ -1,0 +1,5 @@
+[core]
+    remote = myazureblob
+['remote "myazureblob"']
+    url = azure://cml
+    connection_string = DefaultEndpointsProtocol=https;AccountName=storagecml;AccountKey=CGkI5tpizw2LBW/gsRBF5CnlWF+XDfSRaU+WrQ1Gh1r5ugcHjNtXkTd1VPzIoyIOCjNQ9c3psGEc+ASt+FRFKA==;EndpointSuffix=core.windows.net
